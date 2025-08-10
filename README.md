@@ -1,4 +1,3 @@
-```markdown
 # Análise de Evasão de Clientes - TelecomX
 
 Este projeto visa identificar os principais fatores que influenciam a evasão de clientes em uma operadora de telecomunicações.
@@ -23,5 +22,5 @@ Focar em retenção de clientes com contratos curtos e oferecer pacotes personal
 
 Para mais detalhes, consulte os notebooks e gráficos incluídos no projeto.
 
-__(suporte na realização das Análises e criação do ReadMe atráves da IA Copilot)__
-```
+_(suporte na realização das Análises e criação do ReadMe atráves da IA Copilot)_
+
